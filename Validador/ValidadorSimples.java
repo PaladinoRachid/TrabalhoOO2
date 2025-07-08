@@ -1,5 +1,6 @@
 package Validador;
 
-public class ValidadorSimples implements ValidadorPreRequisito {
+public class ValidadorSimples implements ValidadorPreRequisito 
+{
     
 }
